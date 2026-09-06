@@ -1,0 +1,145 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "1b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunfull"
+        }
+      },
+      {
+        "when": "2b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunlessfull1"
+        }
+      },
+      {
+        "when": "3b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunlessfull2"
+        }
+      },
+      {
+        "when": "4b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunhalffull"
+        }
+      },
+      {
+        "when": "5b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunlessthanhalffull1"
+        }
+      },
+      {
+        "when": "6b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunlessthanhalffull2"
+        }
+      },
+      {
+        "when": "7b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunlessthanhalffull3"
+        }
+      },
+      {
+        "when": "8b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunlessthanhalffull4"
+        }
+      },
+      {
+        "when": "9b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunempty"
+        }
+      },
+      {
+        "when": "10b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunextracted"
+        }
+      },
+      {
+        "when": "11b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunfluid"
+        }
+      },
+      {
+        "when": "12b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunfluid1"
+        }
+      },
+      {
+        "when": "13b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunfluid2"
+        }
+      },
+      {
+        "when": "14b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunfluid3"
+        }
+      },
+      {
+        "when": "15b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunfluid4"
+        }
+      },
+      {
+        "when": "16b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunfluid5"
+        }
+      },
+      {
+        "when": "17b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunfluid6"
+        }
+      },
+      {
+        "when": "18b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgunfluid7"
+        }
+      },
+      {
+        "when": "19b",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/portalgundissasembled"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/carrot_on_a_stick"
+    }
+  }
+}
